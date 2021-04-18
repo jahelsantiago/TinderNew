@@ -1,0 +1,19 @@
+{
+  "name": "tinder-backend",
+  "version": "1.0.0",
+  "description": "REST-api for tinder using express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jahelsantiago/TinderNew.git"
+  },
+  "author": "Jahel Santiago Leon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jahelsantiago/TinderNew/issues"
+  },
+  "homepage": "https://github.com/jahelsantiago/TinderNew#readme"
+}

@@ -1,0 +1,49 @@
+.card{
+    position: relative;
+    background-color: aliceblue;
+    width: 680px;
+    padding: 20px;
+    max-width: 85vw;
+    height: 60vh;
+    background-position: center;
+    background-size: cover;
+    border-radius: 20px;
+    display: flex;
+    align-items: flex-end;
+}
+
+.swipe{
+    position: absolute;    
+}
+
+.TinderCards{
+    display: flex;
+    justify-content: center;
+    margin-top: 5vh;
+    
+    
+    
+}
+
+
+.card_description{
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+
+.card h3{
+    color: aliceblue;
+    font-size: 2em;
+    
+}
+
+.TinderCards_Buttons{    
+    position: fixed;
+    bottom: 0;
+    height: 5%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
